@@ -1,3 +1,5 @@
+theme=dracula
+
 ## Hi there 👋
 
 🧑‍💻 Yoiner Idrobo — Desarrollador .NET
@@ -27,11 +29,12 @@ Este repositorio reúne algunos de mis proyectos, ejercicios y recursos de apren
 -   PostgreSQL
 -   DynamoDB
 ### Cloud & DevOps
- -  AWS Lambda
- -  DynamoDB
- -  API Gateway
- -  S3
- -  Docker (básico a intermedio)
+- Azure DevOps
+- AWS Lambda
+- DynamoDB
+- API Gateway
+- S3
+- Docker
 ### Otros
  -  Git / GitHub
  -  Arquitectura Limpia
@@ -39,15 +42,19 @@ Este repositorio reúne algunos de mis proyectos, ejercicios y recursos de apren
  -  Testing unitario (xUnit / NUnit)
 
 ---
-📈 Estadísticas del perfil
+## 📊 Estadísticas de GitHub
 
-![Yoiner GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoinerf&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoinerf&layout=compact&theme=dark)
+![Yoiner GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoinerf&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoinerf&layout=compact&theme=tokyonight)
+
 
 ---
 📬 Contacto
 
-Si deseas hablar sobre oportunidades, ideas o proyectos:
-📧 yoinerf@gmail.com
-💼 www.linkedin.com/in/yoiner-idrobo
+Si deseas hablar sobre oportunidades, ideas o proyectos:  
+- +57 3208362328  
+📧 yoinerf@gmail.com  
+💼 www.linkedin.com/in/yoiner-idrobo  
+
 
