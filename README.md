@@ -1,7 +1,3 @@
-theme=dracula
-
-## Hi there 👋
-
 🧑‍💻 Yoiner Idrobo — Desarrollador .NET
 
 ¡Hola! Soy Yoiner Idrobo, desarrollador .NET con experiencia en la creación de APIs, servicios backend, integración con AWS y construcción de soluciones escalables.
@@ -40,14 +36,6 @@ Este repositorio reúne algunos de mis proyectos, ejercicios y recursos de apren
  -  Arquitectura Limpia
  -  Patrones de diseño
  -  Testing unitario (xUnit / NUnit)
-
----
-## 📊 Estadísticas de GitHub
-
-![Yoiner GitHub Stats](https://github-readme-stats.vercel.app/api?username=yoinerf&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoinerf&layout=compact&theme=tokyonight)
-
 
 ---
 📬 Contacto
