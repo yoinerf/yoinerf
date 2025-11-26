@@ -5,14 +5,14 @@
 ¡Hola! Soy Yoiner Idrobo, desarrollador .NET con experiencia en la creación de APIs, servicios backend, integración con AWS y construcción de soluciones escalables.
 Este repositorio reúne algunos de mis proyectos, ejercicios y recursos de aprendizaje.
 
----
-🚀 Sobre mí
 
-💻 Desarrollador .NET / C# con enfoque en backend. 
-☁️ Integración de servicios cloud (AWS: Lambda, DynamoDB, API Gateway, etc.). 
-🗄️ Experiencia con SQL Server, PostgreSQL, DynamoDB. 
-🧱 Buen dominio de patrones de diseño, arquitectura limpia, DDD y principios SOLID. 
-📚 Apasionado por optimizar código, aprender nuevas tecnologías y compartir conocimiento.
+## 🚀 Sobre mí
+
+💻 Desarrollador .NET / C# con enfoque en backend.  
+☁️ Integración de servicios cloud (AWS: Lambda, DynamoDB, API Gateway, etc.).  
+🗄️ Experiencia con SQL Server, PostgreSQL, DynamoDB.  
+🧱 Buen dominio de patrones de diseño, arquitectura limpia, DDD y principios SOLID.  
+📚 Apasionado por optimizar código, aprender nuevas tecnologías y compartir conocimiento. 
  
 
 🛠️ Tecnologías y herramientas que utilizo
